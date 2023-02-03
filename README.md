@@ -1,1 +1,1 @@
-# Findy
+# Findy is great
